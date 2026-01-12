@@ -1,4 +1,5 @@
 date,net_value,cumulative_net_value,daily_growth_rate,purchase_status,redemption_status,dividend
+2026-01-12,99.9912,0.9999,0.0002,场内买入,场内卖出,
 2026-01-09,99.971,0.9997,0.0,场内买入,场内卖出,
 2026-01-08,99.9739,0.9997,0.0,场内买入,场内卖出,
 2026-01-07,99.9742,0.9997,-0.0002,场内买入,场内卖出,
