@@ -81,8 +81,8 @@ def analyze_single_file(file_path):
     return None
 
 def main():
-    data_dir = 'stock_data'
-    etf_list_path = 'ETF列表.xlsx - Sheet1.csv' # 根据你上传的文件名
+    data_dir = 'fund_data'
+    etf_list_path = 'ETF列表.xlsx'
     
     # 1. 获取所有待处理文件
     files = [os.path.join(data_dir, f) for f in os.listdir(data_dir) if f.endswith('.csv')]
